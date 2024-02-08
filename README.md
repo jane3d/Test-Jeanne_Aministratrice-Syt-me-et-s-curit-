@@ -28,7 +28,9 @@ sudo reboot
 hostname
 hostname -f
 ```
-![markdown](Images/hostname1)
+![markdown](Images/hostname1.png)
+![markdown](Images/hostname2.png)
+
 ### Étape 3 : Mise à jour système
 Avant de procéder à l'installation, il est essentiel de mettre à jour les packages système avec la commande 
 ```sh
