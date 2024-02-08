@@ -30,7 +30,7 @@ hostname -f
 ```
 ![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/5e3216b1-a9c5-4db2-a3c4-fb91802797f3)
 )
-![markdown](Images/hostname2.png)
+![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/abbad846-413e-4716-a769-8954ce4010e0)
 
 ### Étape 3 : Mise à jour système
 Avant de procéder à l'installation, il est essentiel de mettre à jour les packages système avec la commande 
