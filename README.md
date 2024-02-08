@@ -28,7 +28,8 @@ sudo reboot
 hostname
 hostname -f
 ```
-![markdown](Images/hostname1.png)
+![markdown](![hostname2](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/5e3216b1-a9c5-4db2-a3c4-fb91802797f3)
+)
 ![markdown](Images/hostname2.png)
 
 ### Étape 3 : Mise à jour système
