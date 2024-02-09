@@ -145,7 +145,7 @@ Pour terminer l'installation de WordPress, nous avons accedé à notre navigateu
 
 ![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/50bf128f-4b92-4d4e-81ca-43aeb09af373)
 
-¡[markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/f31b70a4-2cad-46a5-a7de-00cbbafe74ed)
+![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/f31b70a4-2cad-46a5-a7de-00cbbafe74ed)
 
 Après cela nous pouvons accéder à notre site web.
 
