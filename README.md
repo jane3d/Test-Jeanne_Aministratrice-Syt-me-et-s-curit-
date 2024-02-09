@@ -47,3 +47,15 @@ On peut choisir d'installer ISPConfig avec Apache ou Nginx comme serveur Web. No
 ```sh
 wget -O - https://get.ispconfig.org | sudo sh -s -- --use-nginx  --use-php=8.0 --use-ftp-ports=21-22 --lang=en --no-quota --unattended-upgrades
 ```
+![markdown](github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/b7aebc5f-1d8c-4a75-8f14-2d1d9800c458)
+
+Après installation nous avons avons le mot de passe pour ce connecter à notre serveur isp à l'adresse https://jeanne-test-srv-01.cyberspector.xyz:8080/index.php
+```sh
+[INFO] Installation ready.
+[INFO] Your ISPConfig admin password is: QTjb1aUtGqjWjs2
+[INFO] Your MySQL root password is: wKHxGADfrNGA2xJ6RRMT
+[INFO] Warning: Please delete the log files in /tmp/ispconfig-ai/var/log/setup-* once you don't need them anymore because they contain your passwords!
+```
+![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/eac5b661-16c7-45a6-8d05-19bfe29d42db)
+
+## Configurer un nom de domaine et un mail sur ISPConfig
