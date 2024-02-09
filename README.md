@@ -29,7 +29,7 @@ hostname
 hostname -f
 ```
 ![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/5e3216b1-a9c5-4db2-a3c4-fb91802797f3)
-)
+
 ![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/abbad846-413e-4716-a769-8954ce4010e0)
 
 ### Étape 3 : Mise à jour système
@@ -47,7 +47,7 @@ On peut choisir d'installer ISPConfig avec Apache ou Nginx comme serveur Web. No
 ```sh
 wget -O - https://get.ispconfig.org | sudo sh -s -- --use-nginx  --use-php=8.0 --use-ftp-ports=21-22 --lang=en --no-quota --unattended-upgrades
 ```
-![markdown](github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/b7aebc5f-1d8c-4a75-8f14-2d1d9800c458)
+![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/b7aebc5f-1d8c-4a75-8f14-2d1d9800c458)
 
 Après installation nous avons avons le mot de passe pour ce connecter à notre serveur isp à l'adresse https://jeanne-test-srv-01.cyberspector.xyz:8080/index.php
 ```sh
@@ -59,3 +59,20 @@ Après installation nous avons avons le mot de passe pour ce connecter à notre 
 ![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/eac5b661-16c7-45a6-8d05-19bfe29d42db)
 
 ## Configurer un nom de domaine et un mail sur ISPConfig
+1. Création du client
+
+Client->Add new client 
+![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/9d4594cb-3dbe-40ab-ae78-4309c1486c0f)
+
+2. Création du site
+Sites->Add new site
+![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/73b5a085-92f7-4e1d-af0c-222a7d221d6c)
+  
+4. Configuration du DNS Zones
+DNS->Add new DNNS zone with wizard
+
+![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/8acd65bf-1577-4c06-b715-d9e8eabb4f65)
+
+On peut desormais acceder à domaine via http
+
+6. 
