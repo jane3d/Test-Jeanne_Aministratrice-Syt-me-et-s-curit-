@@ -1,4 +1,4 @@
-![image](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/36cfc967-e91f-4334-a807-cc6a4c24ecc0)# Rapport-Test Technique pour le poste d’Administrateur Système et Sécurité Junior (Stage)
+# Rapport-Test Technique pour le poste d’Administrateur Système et Sécurité Junior (Stage)
 
 
 
@@ -163,9 +163,8 @@ Quelques images
 ![markdwon](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/eb814971-9f5e-4ac7-9a52-d707a7816141)
 ![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/8291e570-f781-4c10-8029-0114d19ec20f)
 
-![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/12dfdf51-5d60-466b-812
+![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/12dfdf51-5d60-466b-812e-8f6de9bc5676)
 ![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/eaa16bdb-4388-429d-966d-455b0c411a8e)
-e-8f6de9bc5676)
 
 
 
