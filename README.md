@@ -69,10 +69,13 @@ Sites->Add new site
 ![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/73b5a085-92f7-4e1d-af0c-222a7d221d6c)
   
 4. Configuration du DNS Zones
+
 DNS->Add new DNNS zone with wizard
 
 ![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/8acd65bf-1577-4c06-b715-d9e8eabb4f65)
 
 On peut desormais acceder à domaine via http
+
+![markdown](https://github.com/jane3d/Test_Jeanne_Aministratrice-Syteme-et-securite/assets/93372228/56da48d8-06df-4076-8531-2ff8941e8719)
 
 6. 
